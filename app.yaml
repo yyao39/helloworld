@@ -1,0 +1,7 @@
+application: sandbox233-133019
+runtime: php55
+api_version: 1
+
+handlers:
+- url: /.*
+  script: helloworld.php
